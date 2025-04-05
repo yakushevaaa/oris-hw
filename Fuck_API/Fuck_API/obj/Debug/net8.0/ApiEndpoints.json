@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "Fuck_API.Controllers.ItemsController",
+    "Method": "Parse",
+    "RelativePath": "Items/api/parser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
