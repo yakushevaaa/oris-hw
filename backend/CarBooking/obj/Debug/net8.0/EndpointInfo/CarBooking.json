@@ -1,0 +1,466 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "CarBooking",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Cars/GetCars": {
+      "get": {
+        "tags": [
+          "Cars"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CarVm"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CarVm"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CarVm"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Cars/GetCarById/{id}": {
+      "get": {
+        "tags": [
+          "Cars"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Car"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Car"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Car"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Cars/GetFilteredCars": {
+      "get": {
+        "tags": [
+          "Cars"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "name",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "category",
+            "in": "query",
+            "schema": {
+              "$ref": "#/components/schemas/CategoryEnum"
+            }
+          },
+          {
+            "name": "Img",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "transmission",
+            "in": "query",
+            "schema": {
+              "$ref": "#/components/schemas/TransmissionEnum"
+            }
+          },
+          {
+            "name": "spaces",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "price",
+            "in": "query",
+            "schema": {
+              "type": "number",
+              "format": "double"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CarVm"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CarVm"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CarVm"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Comments/GetCarComment": {
+      "get": {
+        "tags": [
+          "Comments"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Comment"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Comment"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Comment"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Email/Email": {
+      "post": {
+        "tags": [
+          "Email"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "Name": {
+                    "type": "string"
+                  },
+                  "Email": {
+                    "type": "string"
+                  },
+                  "Address": {
+                    "type": "string"
+                  },
+                  "City": {
+                    "type": "string"
+                  },
+                  "CityPick": {
+                    "type": "string"
+                  },
+                  "DatePick": {
+                    "type": "string"
+                  },
+                  "TimePick": {
+                    "type": "string"
+                  },
+                  "CityDrop": {
+                    "type": "string"
+                  },
+                  "TimeDrop": {
+                    "type": "string"
+                  },
+                  "CardNumber": {
+                    "type": "string"
+                  },
+                  "CardDate": {
+                    "type": "string"
+                  },
+                  "CardHolder": {
+                    "type": "string"
+                  },
+                  "CardCvc": {
+                    "type": "string"
+                  },
+                  "SendNews": {
+                    "type": "string"
+                  },
+                  "PrivacyPolicy": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "Name": {
+                  "style": "form"
+                },
+                "Email": {
+                  "style": "form"
+                },
+                "Address": {
+                  "style": "form"
+                },
+                "City": {
+                  "style": "form"
+                },
+                "CityPick": {
+                  "style": "form"
+                },
+                "DatePick": {
+                  "style": "form"
+                },
+                "TimePick": {
+                  "style": "form"
+                },
+                "CityDrop": {
+                  "style": "form"
+                },
+                "TimeDrop": {
+                  "style": "form"
+                },
+                "CardNumber": {
+                  "style": "form"
+                },
+                "CardDate": {
+                  "style": "form"
+                },
+                "CardHolder": {
+                  "style": "form"
+                },
+                "CardCvc": {
+                  "style": "form"
+                },
+                "SendNews": {
+                  "style": "form"
+                },
+                "PrivacyPolicy": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Car": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "category": {
+            "$ref": "#/components/schemas/CategoryEnum"
+          },
+          "img": {
+            "type": "string",
+            "nullable": true
+          },
+          "transmission": {
+            "$ref": "#/components/schemas/TransmissionEnum"
+          },
+          "spaces": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "price": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CarVm": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "category": {
+            "type": "string",
+            "nullable": true
+          },
+          "img": {
+            "type": "string",
+            "nullable": true
+          },
+          "transmission": {
+            "type": "string",
+            "nullable": true
+          },
+          "spaces": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "price": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CategoryEnum": {
+        "enum": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "Comment": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "position": {
+            "type": "string",
+            "nullable": true
+          },
+          "text": {
+            "type": "string",
+            "nullable": true
+          },
+          "carId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "date": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "img": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TransmissionEnum": {
+        "enum": [
+          0,
+          1
+        ],
+        "type": "integer",
+        "format": "int32"
+      }
+    }
+  }
+}
