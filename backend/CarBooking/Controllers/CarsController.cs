@@ -1,6 +1,8 @@
 using CarBooking.Data;
 using CarBooking.Enums;
 using CarBooking.Models;
+using CarBooking.Persistence;
+using CarBooking.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CarBooking.Controllers
@@ -9,21 +11,28 @@ namespace CarBooking.Controllers
     [Route("[controller]")]
     public class CarsController : ControllerBase
     {
+        private readonly ApplicationDBContext _dbContext;
+
+        public CarsController(ApplicationDBContext dbContext)
+        {
+            _dbContext = dbContext;
+        }
+
         [HttpGet("GetCars")]
         //public IEnumerable<Car> Get() 
         //    => CarsData.Cars;
  
         public ActionResult<IEnumerable<CarVm>> GetAll()
-        => Ok(CarsData.Cars.Select(x => new CarVm(x)));
+        => Ok(_dbContext.Cars.Select(x => new CarVm(x)));
 
         [HttpGet("GetCarById/{id:int}")]
         public Car? GetById([FromRoute]  int id)
-            => CarsData.Cars.FirstOrDefault(x => x.Id == id);
+            => _dbContext.Cars.FirstOrDefault(x => x.Id == id);
 
         [HttpGet("GetFilteredCars")]
         public IEnumerable<CarVm>? GetFilteredCars(int? id, string? name, CategoryEnum? category, string? Img, TransmissionEnum? transmission, int? spaces, decimal? price   )
         {
-            var result = CarsData.Cars.AsEnumerable();
+            var result = _dbContext.Cars.AsEnumerable();
 
             if (name != null)
                 result = result.Where(i => i.Name.ToLower().Contains(name.ToLower()));

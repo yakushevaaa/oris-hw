@@ -1,13 +1,17 @@
 using CarBooking.Models;
+using CarBooking.Persistence;
 using CarBooking.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Identity.UI.Services;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 var configuration = builder.Configuration;
 builder.Services.AddSingleton(configuration);
 builder.Services.AddTransient<IEmailService, EmailService>();
 builder.Services.AddScoped<EmailSettings>();
+builder.Services.AddDbContext<ApplicationDBContext>(options =>
+    options.UseNpgsql(configuration.GetConnectionString("DefaultConnection")));
 // Add services to the container.
 
 builder.Services.AddControllers();
