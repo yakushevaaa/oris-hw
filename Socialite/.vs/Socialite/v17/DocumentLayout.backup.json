@@ -1,0 +1,536 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Socialite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\wwwroot\\images\\setting.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\wwwroot\\images\\setting.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\wwwroot\\images\\setting.svg||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\wwwroot\\images\\setting.svg||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\views\\fundraiser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\views\\fundraiser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\views\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\controllers\\fundraisercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\controllers\\fundraisercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\views\\messages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\views\\messages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\views\\groups\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\views\\groups\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\views\\shared\\_navlink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\views\\shared\\_navlink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\models\\navlinkmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\models\\navlinkmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\controllers\\marketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\controllers\\marketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\views\\market\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\views\\market\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\views\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\views\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\views\\video\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\views\\video\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\views\\feed\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\views\\feed\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\controllers\\feedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\controllers\\feedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|c:\\users\\admin\\source\\repos\\socialite\\socialite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBD2AED-5088-4E38-9AAA-0EE9151585A1}|Socialite\\Socialite.csproj|solutionrelative:socialite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "setting.svg",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\setting.svg",
+              "RelativeDocumentMoniker": "Socialite\\wwwroot\\images\\setting.svg",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\setting.svg",
+              "RelativeToolTip": "Socialite\\wwwroot\\images\\setting.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABoAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-04-23T16:44:13.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "setting.svg",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\setting.svg",
+              "RelativeDocumentMoniker": "Socialite\\wwwroot\\images\\setting.svg",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\setting.svg",
+              "RelativeToolTip": "Socialite\\wwwroot\\images\\setting.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-04-23T16:41:55.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Settings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Socialite\\Views\\Settings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Settings\\Index.cshtml",
+              "RelativeToolTip": "Socialite\\Views\\Settings\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T16:36:44.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Fundraiser\\Index.cshtml",
+              "RelativeDocumentMoniker": "Socialite\\Views\\Fundraiser\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Fundraiser\\Index.cshtml",
+              "RelativeToolTip": "Socialite\\Views\\Fundraiser\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T16:34:36.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Socialite\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "Socialite\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T16:29:36.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "Socialite\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "Socialite\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-23T16:22:05.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "Socialite\\Controllers\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "Socialite\\Controllers\\GroupsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:22:56.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "Socialite\\Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "Socialite\\Views\\Event\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T15:08:11.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "Socialite\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeToolTip": "Socialite\\Views\\Shared\\_Sidebar.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAqwE8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T10:30:40.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "Socialite\\Controllers\\SettingsController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "Socialite\\Controllers\\SettingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:38:11.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FundraiserController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\FundraiserController.cs",
+              "RelativeDocumentMoniker": "Socialite\\Controllers\\FundraiserController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\FundraiserController.cs",
+              "RelativeToolTip": "Socialite\\Controllers\\FundraiserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:39:07.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FeedController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\FeedController.cs",
+              "RelativeDocumentMoniker": "Socialite\\Controllers\\FeedController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\FeedController.cs",
+              "RelativeToolTip": "Socialite\\Controllers\\FeedController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:08:23.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Messages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Socialite\\Views\\Messages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Messages\\Index.cshtml",
+              "RelativeToolTip": "Socialite\\Views\\Messages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T14:27:37.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Socialite\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Socialite\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:25:13.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Groups\\Index.cshtml",
+              "RelativeDocumentMoniker": "Socialite\\Views\\Groups\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Groups\\Index.cshtml",
+              "RelativeToolTip": "Socialite\\Views\\Groups\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T15:19:22.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Games\\Index.cshtml",
+              "RelativeDocumentMoniker": "Socialite\\Views\\Games\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Games\\Index.cshtml",
+              "RelativeToolTip": "Socialite\\Views\\Games\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T16:27:19.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "Socialite\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "Socialite\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:26:04.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "Socialite\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "Socialite\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T10:44:43.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_NavLink.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Shared\\_NavLink.cshtml",
+              "RelativeDocumentMoniker": "Socialite\\Views\\Shared\\_NavLink.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Shared\\_NavLink.cshtml",
+              "RelativeToolTip": "Socialite\\Views\\Shared\\_NavLink.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T10:32:55.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NavLinkModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Models\\NavLinkModel.cs",
+              "RelativeDocumentMoniker": "Socialite\\Models\\NavLinkModel.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Models\\NavLinkModel.cs",
+              "RelativeToolTip": "Socialite\\Models\\NavLinkModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:36:27.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Socialite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Socialite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T10:22:43.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Socialite\\Views\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Socialite\\Views\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAOgCAAAAAAAAAAAAAPcCAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T15:13:52.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PagesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\PagesController.cs",
+              "RelativeDocumentMoniker": "Socialite\\Controllers\\PagesController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\PagesController.cs",
+              "RelativeToolTip": "Socialite\\Controllers\\PagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:15:29.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Market\\Index.cshtml",
+              "RelativeDocumentMoniker": "Socialite\\Views\\Market\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Market\\Index.cshtml",
+              "RelativeToolTip": "Socialite\\Views\\Market\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T15:19:30.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MarketController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\MarketController.cs",
+              "RelativeDocumentMoniker": "Socialite\\Controllers\\MarketController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\MarketController.cs",
+              "RelativeToolTip": "Socialite\\Controllers\\MarketController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:22:37.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Feed\\Index.cshtml",
+              "RelativeDocumentMoniker": "Socialite\\Views\\Feed\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Feed\\Index.cshtml",
+              "RelativeToolTip": "Socialite\\Views\\Feed\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T14:02:10.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Program.cs",
+              "RelativeDocumentMoniker": "Socialite\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Program.cs",
+              "RelativeToolTip": "Socialite\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:13:20.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Video\\Index.cshtml",
+              "RelativeDocumentMoniker": "Socialite\\Views\\Video\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Views\\Video\\Index.cshtml",
+              "RelativeToolTip": "Socialite\\Views\\Video\\Index.cshtml",
+              "ViewState": "AgIAAGYBAAAAAAAAAAAAALsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T15:00:13.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Socialite\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Socialite\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:10:24.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\VideoController.cs",
+              "RelativeDocumentMoniker": "Socialite\\Controllers\\VideoController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\VideoController.cs",
+              "RelativeToolTip": "Socialite\\Controllers\\VideoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:01:22.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "Socialite\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "Socialite\\Controllers\\MessagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:47:41.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

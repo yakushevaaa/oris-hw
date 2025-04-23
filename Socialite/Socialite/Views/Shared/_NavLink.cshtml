@@ -1,0 +1,7 @@
+﻿@model Socialite.Models.NavLinkModel
+
+
+    <a href="@Url.Action(Model.ActionName, Model.ControllerName)">
+        <img src="@Url.Content(Model.IconPath)" alt="@Model.LinkText" class="w-5" />
+        <span> @Model.LinkText </span>
+    </a>

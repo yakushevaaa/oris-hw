@@ -1,0 +1,697 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Socialite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Socialite.ja2j82e2e3.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\css\\tailwind.css",
+      "PackagePath": "staticwebassets\\css\\tailwind.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\ad_pattern.png",
+      "PackagePath": "staticwebassets\\images\\ad_pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\avatars\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\avatars\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\avatars\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\avatars\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\avatars\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\avatars\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\avatars\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\avatars\\avatar-lg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar-lg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\avatars\\avatar-lg-2.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar-lg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\avatars\\avatar-lg-4.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar-lg-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\avatars\\avatar-lg-5.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\avatar-lg-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\avatars\\profile-cover.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\profile-cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\blog\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\blog\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\blog\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\blog\\img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\blog\\img-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\category\\business.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\business.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\category\\health.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\health.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\category\\science-and-tech.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\science-and-tech.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\category\\travel.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\travel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\demos\\beams.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\beams.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\demos\\photo1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\photo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\demos\\photo2.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\photo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\demos\\photo3.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\demos\\photo4.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\demos\\slider1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\demos\\slider2.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\demos\\slider3.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\slider3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\demos\\slider4.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\slider4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\events\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\events\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\events\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\events\\img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\events\\listing-1.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\listing-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\events\\listing-2.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\listing-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\events\\listing-3.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\listing-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\events\\listing-4.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\listing-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\events\\listing-5.jpg",
+      "PackagePath": "staticwebassets\\images\\events\\listing-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\funding\\funder-1.jpg",
+      "PackagePath": "staticwebassets\\images\\funding\\funder-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\funding\\funder-2.jpg",
+      "PackagePath": "staticwebassets\\images\\funding\\funder-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\funding\\funder-3.jpg",
+      "PackagePath": "staticwebassets\\images\\funding\\funder-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\funding\\funder-4.jpg",
+      "PackagePath": "staticwebassets\\images\\funding\\funder-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\games\\img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\games\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\games\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\games\\img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\games\\img-5.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\games\\img-6.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\games\\img-lg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\img-lg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\games\\img-lg-2.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\img-lg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\games\\img-lg-3.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\img-lg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\group\\group-1.jpg",
+      "PackagePath": "staticwebassets\\images\\group\\group-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\group\\group-2.jpg",
+      "PackagePath": "staticwebassets\\images\\group\\group-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\group\\group-3.jpg",
+      "PackagePath": "staticwebassets\\images\\group\\group-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\group\\group-4.jpg",
+      "PackagePath": "staticwebassets\\images\\group\\group-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\group\\group-5.jpg",
+      "PackagePath": "staticwebassets\\images\\group\\group-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\group\\group-avature.jpg",
+      "PackagePath": "staticwebassets\\images\\group\\group-avature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\group\\group-cover-1.jpg",
+      "PackagePath": "staticwebassets\\images\\group\\group-cover-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\group\\group-cover-2.jpg",
+      "PackagePath": "staticwebassets\\images\\group\\group-cover-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\group\\group-cover-3.jpg",
+      "PackagePath": "staticwebassets\\images\\group\\group-cover-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\group\\group-cover-4.jpg",
+      "PackagePath": "staticwebassets\\images\\group\\group-cover-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\group\\group-cover-5.jpg",
+      "PackagePath": "staticwebassets\\images\\group\\group-cover-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\group\\group-cover.jpg",
+      "PackagePath": "staticwebassets\\images\\group\\group-cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\icon-play.svg",
+      "PackagePath": "staticwebassets\\images\\icon-play.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\icons\\blog-2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\blog-2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\icons\\blog.png",
+      "PackagePath": "staticwebassets\\images\\icons\\blog.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\icons\\event-2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\event-2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\icons\\event.png",
+      "PackagePath": "staticwebassets\\images\\icons\\event.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\icons\\fund.png",
+      "PackagePath": "staticwebassets\\images\\icons\\fund.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\icons\\game.png",
+      "PackagePath": "staticwebassets\\images\\icons\\game.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\icons\\group-2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\group-2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\icons\\group.png",
+      "PackagePath": "staticwebassets\\images\\icons\\group.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\icons\\home.png",
+      "PackagePath": "staticwebassets\\images\\icons\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\icons\\market.png",
+      "PackagePath": "staticwebassets\\images\\icons\\market.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\icons\\message.png",
+      "PackagePath": "staticwebassets\\images\\icons\\message.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\icons\\page.png",
+      "PackagePath": "staticwebassets\\images\\icons\\page.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\icons\\video.png",
+      "PackagePath": "staticwebassets\\images\\icons\\video.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\logo-light.png",
+      "PackagePath": "staticwebassets\\images\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\logo-mobile-light.png",
+      "PackagePath": "staticwebassets\\images\\logo-mobile-light.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\logo-mobile.png",
+      "PackagePath": "staticwebassets\\images\\logo-mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\post\\img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\post\\img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\post\\img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\post\\post-1.jpg",
+      "PackagePath": "staticwebassets\\images\\post\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\setting.svg",
+      "PackagePath": "staticwebassets\\images\\setting.svg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\video\\img-1.png",
+      "PackagePath": "staticwebassets\\images\\video\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\video\\img-2.png",
+      "PackagePath": "staticwebassets\\images\\video\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\video\\img-3.png",
+      "PackagePath": "staticwebassets\\images\\video\\img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\video\\img-4.png",
+      "PackagePath": "staticwebassets\\images\\video\\img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\images\\video\\img-5.png",
+      "PackagePath": "staticwebassets\\images\\video\\img-5.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\js\\simplebar.js",
+      "PackagePath": "staticwebassets\\js\\simplebar.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\js\\uikit.min.js",
+      "PackagePath": "staticwebassets\\js\\uikit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\source\\repos\\Socialite\\Socialite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Socialite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Socialite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Socialite.props",
+      "PackagePath": "build\\Socialite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Socialite.props",
+      "PackagePath": "buildMultiTargeting\\Socialite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Socialite.props",
+      "PackagePath": "buildTransitive\\Socialite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

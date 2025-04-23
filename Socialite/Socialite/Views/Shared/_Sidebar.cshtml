@@ -1,0 +1,118 @@
+﻿@using Socialite.Models
+
+@{
+    var currentController = ViewContext.RouteData.Values["Controller"].ToString();
+    var currentAction = ViewContext.RouteData.Values["Action"].ToString();
+
+    var navLinks = new List<NavLinkModel>
+    {
+        new NavLinkModel {
+            IconPath = "/images/icons/home.png",
+            LinkText = "Feed",
+            ActionName = "Index",
+            ControllerName = "Feed",
+            IsActive = currentController == "Feed" && currentAction == "Index"
+        },
+        new NavLinkModel {
+            IconPath = "/images/icons/message.png",
+            LinkText = "Messages",
+            ActionName = "Index",
+            ControllerName = "Messages",
+            IsActive = currentController == "Messages" && currentAction == "Index"
+        },
+        new NavLinkModel {
+            IconPath = "/images/icons/video.png",
+            LinkText = "Video",
+            ActionName = "Index",
+            ControllerName = "Video",
+            IsActive = currentController == "Video" && currentAction == "Index"
+        },
+        new NavLinkModel {
+            IconPath = "/images/icons/event.png",
+            LinkText = "Event",
+            ActionName = "Index",
+            ControllerName = "Event",
+            IsActive = currentController == "Event" && currentAction == "Index"
+        },
+        new NavLinkModel {
+            IconPath = "/images/icons/page.png",
+            LinkText = "Pages",
+            ActionName = "Index",
+            ControllerName = "Pages",
+            IsActive = currentController == "Pages" && currentAction == "Index"
+        },
+        new NavLinkModel {
+            IconPath = "/images/icons/group.png",
+            LinkText = "Groups",
+            ActionName = "Index",
+            ControllerName = "Groups",
+            IsActive = currentController == "Groups" && currentAction == "Index"
+        },
+        new NavLinkModel {
+            IconPath = "/images/icons/market.png",
+            LinkText = "Market",
+            ActionName = "Index",
+            ControllerName = "Market",
+            IsActive = currentController == "Market" && currentAction == "Index"
+        },
+         new NavLinkModel {
+            IconPath = "/images/icons/blog.png",
+            LinkText = "Blog",
+            ActionName = "Index",
+            ControllerName = "Blog",
+            IsActive = currentController == "Blog" && currentAction == "Index"
+        },
+         new NavLinkModel {
+            IconPath = "/images/icons/game.png",
+            LinkText = "Games",
+            ActionName = "Index",
+            ControllerName = "Games",
+            IsActive = currentController == "Games" && currentAction == "Index"
+        },
+         new NavLinkModel {
+            IconPath = "/images/icons/fund.png",
+            LinkText = "Fundraiser",
+            ActionName = "Index",
+            ControllerName = "Fundraiser",
+            IsActive = currentController == "Fundraiser" && currentAction == "Index"
+        },
+         new NavLinkModel {
+            IconPath = "/images/setting.svg",
+            LinkText = "Settings",
+            ActionName = "Index",
+            ControllerName = "Settings",
+            IsActive = currentController == "Settings" && currentAction == "Index"
+        }
+    };
+}
+
+<div id="site__sidebar" class="fixed top-0 left-0 z-[99] pt-[--m-top] overflow-hidden transition-transform xl:duration-500 max-xl:w-full max-xl:-translate-x-full">
+    <div class="p-2 max-xl:bg-white shadow-sm 2xl:w-72 sm:w-64 w-[80%] h-[calc(100vh-64px)] relative z-30 max-lg:border-r dark:max-xl:!bg-slate-700 dark:border-slate-700">
+        <div class="pr-4" data-simplebar>
+            <nav id="side">
+                <ul>
+                    @foreach (var link in navLinks)
+                    {
+                        <li class="@(link.IsActive ? "active" : "")">
+                            @Html.Partial("_NavLink", link)
+                        </li>
+                    }
+                </ul>
+
+                <button type="button" class="flex items-center gap-4 py-2 px-4 w-full font-medium text-sm text-black dark:text-white" uk-toggle="target: #show__more; cls: !hidden uk-animation-fade">
+                    <svg class="bg-gray-200 rounded-full w-6 h-6 dark:bg-slate-700" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+                    </svg>
+                    <span id="show__more"> See More </span>
+                    <span class="!hidden" id="show__more"> See Less </span>
+                </button>
+            </nav>
+        </div>
+    </div>
+
+    <div id="site__sidebar__overly"
+         class="absolute top-0 left-0 z-20 w-screen h-screen xl:hidden backdrop-blur-sm"
+         uk-toggle="target: #site__sidebar ; cls :!-translate-x-0">
+    </div>
+</div>
+
